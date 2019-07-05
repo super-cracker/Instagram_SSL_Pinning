@@ -12,4 +12,4 @@ Bypassing Instagram SSL pinning `ARM`
 
 ARCH | Modified APK | Version
 --- | --- | ---
-armeabi-v7a | [Download](https://github.com/super-cracker/Instagram_SSL_Pinning/blob/master/instagram_v100.0.0.17.129.apk) | 100.0.0.17.129
+armeabi-v7a | [Download](https://raw.githubusercontent.com/super-cracker/Instagram_SSL_Pinning/master/instagram_v100.0.0.17.129.apk) | 100.0.0.17.129
